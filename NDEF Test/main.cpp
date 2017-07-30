@@ -164,4 +164,3 @@ main(int argc, char *argv[])
     nfc_exit(context);
     exit(EXIT_SUCCESS);
 }
-Contact GitHub API Training Shop Blog About
