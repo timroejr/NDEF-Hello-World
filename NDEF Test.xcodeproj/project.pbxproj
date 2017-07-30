@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		B6B16B371F2E53F700BBC7A7 /* NDEF Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "NDEF Test"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B6B16B3A1F2E53F700BBC7A7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B6B16B3A1F2E53F700BBC7A7 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
